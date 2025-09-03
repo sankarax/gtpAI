@@ -1,4 +1,4 @@
-The app is super simple to setup. As a preface, the fine-tuned Llama 3.1 model is stored in the personal HuggingFace repo. The fine-tuning process took around 24 hrs and is a separate mini-project.
+The Guess The Price app is super simple to setup. As a preface, the fine-tuned Llama 3.1 model is stored in the personal HuggingFace repo. The fine-tuning process took around 24 hrs and is a separate mini-project.
 - If you are using your own fine-tuned model make sure to change the HF username and project name first. And add the hf-secret to the Modal Secrets.
 - Install modal using pip install modal.
 - Create a new modal token by running "modal setup" in the terminal. Authorize the access popup in the webpage.
